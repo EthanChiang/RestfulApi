@@ -19,3 +19,6 @@ Spring-boot-devtools
 Spring-boot-rest
 
 資料庫:MySQL
+
+user的資料的密碼經過解密後為
+fun123
